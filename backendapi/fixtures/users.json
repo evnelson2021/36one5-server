@@ -1,0 +1,54 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR8B=",
+            "first_name": "Kara",
+            "last_name": "Hoffpauir",
+            "email": "kara@email.com",
+            "is_admin": true,
+            "is_active": true,
+            "date_joined": "2020-08-28T14:51:39.989Z"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR7I=",
+            "first_name": "Emily",
+            "last_name": "Nelson",
+            "email": "em@email.com",
+            "is_admin": false,
+            "is_active": true,
+            "date_joined": "2020-08-28T14:51:39.989Z"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 3,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR9B=",
+            "first_name": "Sara",
+            "last_name": "Moy",
+            "email": "moy@email.com",
+            "is_admin": true,
+            "is_active": true,
+            "date_joined": "2020-08-28T14:51:39.989Z"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 4,
+        "fields": {
+            "password": "pbkdf2_sha256$216000$qMRH8szID7Z8$Vljya2V3XfruOHuvx1hGz9ZyKg4bxbw7rc2WO0gTR5C=",
+            "first_name": "Haley",
+            "last_name": "Vining",
+            "email": "haley@email.com",
+            "is_admin": false,
+            "is_active": true,
+            "date_joined": "2020-08-28T14:51:39.989Z"
+        }
+    }
+]
