@@ -1,0 +1,72 @@
+[
+    {
+        "model": "backendapi.eventtype",
+        "pk": 1,
+        "fields": {
+            "label": "Concert"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 2,
+        "fields": {
+            "label": "Sporting Event"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 3,
+        "fields": {
+            "label": "Fundraiser"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 4,
+        "fields": {
+            "label": "Educational"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 5,
+        "fields": {
+            "label": "Comedy"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 6,
+        "fields": {
+            "label": "Festival"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 7,
+        "fields": {
+            "label": "Special Events"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 8,
+        "fields": {
+            "label": "Art"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 9,
+        "fields": {
+            "label": "Virtual"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 10,
+        "fields": {
+            "label": "Miscellaneous"
+        }
+    }
+]
