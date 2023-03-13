@@ -1,18 +1,17 @@
 [
-    // BASEMENT EAST
     {
         "model": "backendapi.event",
         "pk": 1,
         "fields": {
             "admin_user": 1,
             "venue": 1,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
-            "date": "2023-03-13",
-            "doors": "06:30PM",
-            "start_time": "07:30PM",
-            "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "name": "LIGHT: Bruce Munro at Cheekwood",
+            "date": "2023-05-04 through 2023-10-27",
+            "doors": "05:30PM",
+            "start_time": "Various time slots available",
+            "event_type": 8,
+            "details": "Featuring the work of renowned British installation artist Bruce Munro, LIGHT: Bruce Munro at Cheekwood celebrates the 10th anniversary of an exhibition by the same name held at Cheekwood in 2013. As a campus-wide, immersive intervention highlighting significant advancements in illuminative technology, LIGHT has been expanded in scope and scale for 2023. It is designed to respond to and enhance the outdoor garden and indoor gallery experiences, encouraging an awareness of our individual and collective journeys through time and space. The interplay between Munro's three-dimensional creations and the surrounding environment - at dusk and after dark - heightens the sense of time's passage, reinforced through works with expressed childhood and literary themes. Whether backlit sea glass or pigment on paper, his two-dimensional works likewise comment on life through the “language of light.” Munro underscores that, just as he has changed as an individual in the ten years since his previous exhibition at Cheekwood, so too has his relationship with the site, technology, and the world around him.",
+            "ticket_link": "https://cheekwood.org/calendar-events/light-bruce-munro-at-cheekwood/#tickets"
         }
     },
     {
@@ -21,13 +20,13 @@
         "fields": {
             "admin_user": 1,
             "venue": 1,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
-            "date": "2023-03-13",
-            "doors": "06:30PM",
-            "start_time": "07:30PM",
-            "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "name": "2023 Cheekwood in Bloom",
+            "date": "March 11, 2023 - April 9, 2023",
+            "doors": "10:30AM",
+            "start_time": "Various time slots available",
+            "event_type": 7,
+            "details": "There's no place more beautiful than Cheekwood in the spring. As more than 250,000 blooming bulbs spill from our gardens, creating a color experience you won't forget. Want to know what's currently blooming in the gardens? We will be sharing #TulipTracker updates on our Facebook and Instagram stories!",
+            "ticket_link": "https://cheekwood.org/calendar-events/2023-cheekwood-in-bloom/#tickets"
         }
     },
     {
@@ -36,13 +35,13 @@
         "fields": {
             "admin_user": 1,
             "venue": 1,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
-            "date": "2023-03-13",
-            "doors": "06:30PM",
-            "start_time": "07:30PM",
+            "name": "Under the Stars Concert Series",
+            "date": "July 21, 2023 - September 8, 2023",
+            "doors": "06:00PM",
+            "start_time": "07:00PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "Summer nights invite lingering and lounging under the stars at Cheekwood, where over five spectacular evenings, music fills the air. During the Under the Stars Concert Series, the region’s finest players, writers, and singers perform in Cheekwood’s signature lush gardens while food trucks prepare mouthwatering bites and vendors offer wines by the bottle, local brews, craft cocktails, and more. Music lineups are as diverse as they are rich: Jazz, Bluegrass, and Songwriters nights beckon, promising something for everyone.",
+            "ticket_link": "https://cheekwood.org/calendar-events/under-the-stars-concert-series/"
         }
     },
     {
@@ -51,29 +50,28 @@
         "fields": {
             "admin_user": 1,
             "venue": 1,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
-            "date": "2023-03-13",
-            "doors": "06:30PM",
-            "start_time": "07:30PM",
-            "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "name": "Drop Everything and Read (D.E.A.R.)",
+            "date": "2023-04-15",
+            "doors": "9:45AM",
+            "start_time": "10:00PM",
+            "event_type": 4,
+            "details": "Beverly Cleary, author and creator of the incredible Ramona Quimby, started Drop Everything and Read Day (DEAR) so that folks of all ages could be reminded to make reading a priority in their lives. Cheekwood celebrates DEAR by featuring local authors and storytellers bringing fanciful tales to life. Bring a book, find a new one, and remember why reading is fun(damental)! Available with Gardens Only Tickets and Gardens and Mansion Tickets. 10:00 am - 1:00 pm",
+            "ticket_link": "https://cheekwood.org/tickets/"
         }
     },
-    // DAVIDSON COUNTY
     {
         "model": "backendapi.event",
         "pk": 5,
         "fields": {
             "admin_user": 2,
             "venue": 2,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -82,13 +80,13 @@
         "fields": {
             "admin_user": 2,
             "venue": 2,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -97,29 +95,28 @@
         "fields": {
             "admin_user": 2,
             "venue": 2,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // RYMAN
     {
         "model": "backendapi.event",
         "pk": 8,
         "fields": {
             "admin_user": 3,
             "venue": 3,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -128,13 +125,13 @@
         "fields": {
             "admin_user": 3,
             "venue": 3,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -143,29 +140,28 @@
         "fields": {
             "admin_user": 3,
             "venue": 3,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // ASCEND AMPHITHEATER
     {
         "model": "backendapi.event",
         "pk": 11,
         "fields": {
             "admin_user": 4,
             "venue": 4,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -174,13 +170,13 @@
         "fields": {
             "admin_user": 4,
             "venue": 4,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -189,29 +185,28 @@
         "fields": {
             "admin_user": 4,
             "venue": 4,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // BROOKLYN BOWL
     {
         "model": "backendapi.event",
         "pk": 14,
         "fields": {
             "admin_user": 5,
             "venue": 5,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -220,13 +215,13 @@
         "fields": {
             "admin_user": 5,
             "venue": 5,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -235,29 +230,28 @@
         "fields": {
             "admin_user": 5,
             "venue": 5,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // FIRSTBANK AMPHITHEATER
     {
         "model": "backendapi.event",
         "pk": 17,
         "fields": {
             "admin_user": 6,
             "venue": 6,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -266,13 +260,13 @@
         "fields": {
             "admin_user": 6,
             "venue": 6,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -281,29 +275,28 @@
         "fields": {
             "admin_user": 6,
             "venue": 6,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // GEODIS PARK
     {
         "model": "backendapi.event",
         "pk": 20,
         "fields": {
             "admin_user": 7,
             "venue": 7,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -312,13 +305,13 @@
         "fields": {
             "admin_user": 7,
             "venue": 7,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -327,29 +320,13 @@
         "fields": {
             "admin_user": 7,
             "venue": 7,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
-        }
-    },
-    // CITY WINERY
-    {
-        "model": "backendapi.event",
-        "pk": 23,
-        "fields": {
-            "admin_user": 8,
-            "venue": 8,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
-            "date": "2023-03-13",
-            "doors": "06:30PM",
-            "start_time": "07:30PM",
-            "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -358,13 +335,28 @@
         "fields": {
             "admin_user": 8,
             "venue": 8,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
+        }
+    },
+    {
+        "model": "backendapi.event",
+        "pk": 23,
+        "fields": {
+            "admin_user": 8,
+            "venue": 8,
+            "name": "",
+            "date": "2023-03-13",
+            "doors": "06:30PM",
+            "start_time": "07:30PM",
+            "event_type": 1,
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -373,29 +365,28 @@
         "fields": {
             "admin_user": 8,
             "venue": 8,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // BRIDGESTONE ARENA
     {
         "model": "backendapi.event",
         "pk": 26,
         "fields": {
             "admin_user": 9,
             "venue": 9,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -404,13 +395,13 @@
         "fields": {
             "admin_user": 9,
             "venue": 9,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -419,29 +410,28 @@
         "fields": {
             "admin_user": 9,
             "venue": 9,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // THE FRIST
     {
         "model": "backendapi.event",
         "pk": 29,
         "fields": {
             "admin_user": 10,
             "venue": 10,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -450,13 +440,13 @@
         "fields": {
             "admin_user": 10,
             "venue": 10,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -465,29 +455,28 @@
         "fields": {
             "admin_user": 10,
             "venue": 10,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // NASHVILLE MUNICIPAL AUDITORIUM
     {
         "model": "backendapi.event",
         "pk": 32,
         "fields": {
             "admin_user": 11,
             "venue": 11,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -496,13 +485,13 @@
         "fields": {
             "admin_user": 11,
             "venue": 11,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -511,16 +500,15 @@
         "fields": {
             "admin_user": 11,
             "venue": 11,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // TPAC
     {
         "model": "backendapi.event",
         "pk": 35,
@@ -532,8 +520,8 @@
             "doors": "05:00PM",
             "start_time": "06:00PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -542,13 +530,13 @@
         "fields": {
             "admin_user": 12,
             "venue": 12,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -557,29 +545,28 @@
         "fields": {
             "admin_user": 12,
             "venue": 12,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // NISSAN STADIUM
     {
         "model": "backendapi.event",
         "pk": 38,
         "fields": {
             "admin_user": 13,
             "venue": 13,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -588,13 +575,13 @@
         "fields": {
             "admin_user": 13,
             "venue": 13,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -603,29 +590,28 @@
         "fields": {
             "admin_user": 13,
             "venue": 13,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
-    // MARATHON MUSIC WORKS
     {
         "model": "backendapi.event",
         "pk": 41,
         "fields": {
             "admin_user": 14,
             "venue": 14,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -639,7 +625,7 @@
             "doors": "07:00PM",
             "start_time": "08:00PM",
             "event_type": 1,
-            "details": "Blah blah blah",
+            "details": "",
             "ticket_link": "https://www.ticketweb.com/event/k-michelle-w-j-howell-marathon-music-works-tickets/12747085?pl=marathonmusicworks&REFID=clientsitewp"
         }
     },
@@ -654,7 +640,7 @@
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
+            "details": "",
             "ticket_link": "https://www.ticketweb.com/event/gracie-abrams-the-good-riddance-marathon-music-works-tickets/12815525?pl=marathonmusicworks&REFID=clientsitewp"
         }
     },
@@ -669,7 +655,7 @@
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
+            "details": "",
             "ticket_link": "https://www.ticketweb.com/event/lauren-daigle-album-preview-concert-marathon-music-works-tickets/13020345?pl=marathonmusicworks&REFID=clientsitewp"
         }
     },
@@ -684,7 +670,7 @@
             "doors": "07:00PM",
             "start_time": "08:00PM",
             "event_type": 1,
-            "details": "Blah blah blah",
+            "details": "",
             "ticket_link": "SOLD OUT"
         }
     },
@@ -699,24 +685,23 @@
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
+            "details": "",
             "ticket_link": "https://www.ticketweb.com/event/ruel-4th-wall-marathon-music-works-tickets/13003635?pl=marathonmusicworks&REFID=clientsitewp"
         }
     },
-    // WILLIAMSON COUNTY
     {
         "model": "backendapi.event",
         "pk": 47,
         "fields": {
             "admin_user": 15,
             "venue": 15,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -725,13 +710,13 @@
         "fields": {
             "admin_user": 15,
             "venue": 15,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     },
     {
@@ -740,13 +725,13 @@
         "fields": {
             "admin_user": 15,
             "venue": 15,
-            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "name": "",
             "date": "2023-03-13",
             "doors": "06:30PM",
             "start_time": "07:30PM",
             "event_type": 1,
-            "details": "Blah blah blah",
-            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+            "details": "",
+            "ticket_link": ""
         }
     }
 ]
