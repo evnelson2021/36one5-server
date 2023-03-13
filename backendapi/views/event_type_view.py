@@ -15,9 +15,14 @@ class EventTypeView(ViewSet):
         Returns:
             Response -- JSON serialized event type
         """
-        event_type = EventType.objects.get(pk=pk)
+        try:
+            event_type = EventType.objects.get(pk=pk)
+
+        except EventType.DoesNotExist:
+            return Response(None, status=status.HTTP_404_NOT_FOUND)
+    
         serializer = EventTypeSerializer(event_type)
-        return Response(serializer.data)
+        return Response(serializer.data, status=status.HTTP_200_OK)
 
     def list(self, request):
         """Handle GET requests to get all event types
@@ -27,7 +32,7 @@ class EventTypeView(ViewSet):
         """
         event_types = EventType.objects.all()
         serializer = EventTypeSerializer(event_types, many=True)
-        return Response(serializer.data)
+        return Response(serializer.data, status=status.HTTP_200_OK)
 
 class EventTypeSerializer(serializers.ModelSerializer):
     """JSON serializer for event types
