@@ -15,13 +15,14 @@ Including another URLconf
 """
 from django.conf.urls import include
 from rest_framework import routers
-from backendapi.views import EventTypeView
+from backendapi.views import EventTypeView, VenueView
 from django.contrib import admin
 from django.urls import path
 from backendapi.views import register_user, login_user
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'eventtypes', EventTypeView, 'eventtype')
+router.register(r'venues', VenueView, 'venue')
 
 urlpatterns = [
     path('register', register_user),
