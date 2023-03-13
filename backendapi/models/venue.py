@@ -6,5 +6,4 @@ class Venue(models.Model):
     location = models.CharField(max_length=150)
     hours = models.CharField(max_length=150)
     details = models.CharField(max_length=150)
-    latitude = models.CharField(max_length=150)
-    longitude = models.CharField(max_length=150)
+    coordinates = models.CharField(max_length=150)

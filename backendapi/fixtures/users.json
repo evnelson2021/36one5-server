@@ -7,7 +7,8 @@
             "first_name": "Kara",
             "last_name": "Hoffpauir",
             "email": "kara@email.com",
-            "is_admin": true,
+            "username": "kara",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -20,7 +21,8 @@
             "first_name": "Lane",
             "last_name": "Buck",
             "email": "lane@email.com",
-            "is_admin": true,
+            "username": "lane",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -33,7 +35,8 @@
             "first_name": "Sara",
             "last_name": "Moy",
             "email": "moy@email.com",
-            "is_admin": true,
+            "username": "moy",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -46,7 +49,8 @@
             "first_name": "Shanice",
             "last_name": "Hicks",
             "email": "shanice@email.com",
-            "is_admin": true,
+            "username": "shanice",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -59,7 +63,8 @@
             "first_name": "Jimmy",
             "last_name": "Vining",
             "email": "jimmy@email.com",
-            "is_admin": true,
+            "username": "jimmy",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -72,7 +77,8 @@
             "first_name": "Kip",
             "last_name": "Collins",
             "email": "kip@email.com",
-            "is_admin": true,
+            "username": "kip",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -85,7 +91,8 @@
             "first_name": "Alana",
             "last_name": "Stirsman",
             "email": "alana@email.com",
-            "is_admin": true,
+            "username": "alana",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -98,7 +105,8 @@
             "first_name": "Chelsa",
             "last_name": "Read",
             "email": "chelsa@email.com",
-            "is_admin": true,
+            "username": "chelsa",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -111,7 +119,8 @@
             "first_name": "Alex",
             "last_name": "Lourie",
             "email": "alex@email.com",
-            "is_admin": true,
+            "username": "alexl",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -124,7 +133,8 @@
             "first_name": "Brenda",
             "last_name": "Beck",
             "email": "brenda@email.com",
-            "is_admin": true,
+            "username": "brenda",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -137,7 +147,8 @@
             "first_name": "Dylan",
             "last_name": "Lenoir",
             "email": "dylan@email.com",
-            "is_admin": true,
+            "username": "dylan",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -150,7 +161,8 @@
             "first_name": "Alex",
             "last_name": "Boudreaux",
             "email": "alex@email.com",
-            "is_admin": true,
+            "username": "alexb",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -163,7 +175,8 @@
             "first_name": "Nick",
             "last_name": "Jeter",
             "email": "nick@email.com",
-            "is_admin": true,
+            "username": "nickj",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -176,7 +189,8 @@
             "first_name": "Bradley",
             "last_name": "Floore",
             "email": "bradley@email.com",
-            "is_admin": true,
+            "username": "bradley",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -189,7 +203,8 @@
             "first_name": "Laikyn",
             "last_name": "Crappell",
             "email": "laikyn@email.com",
-            "is_admin": true,
+            "username": "laikyn",
+            "is_staff": true,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -202,7 +217,8 @@
             "first_name": "Emily",
             "last_name": "Nelson",
             "email": "em@email.com",
-            "is_admin": false,
+            "username": "emily",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -215,7 +231,8 @@
             "first_name": "Haley",
             "last_name": "Vining",
             "email": "haley@email.com",
-            "is_admin": false,
+            "username": "haley",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -228,7 +245,8 @@
             "first_name": "Andrew",
             "last_name": "Nelson",
             "email": "andrew@email.com",
-            "is_admin": false,
+            "username": "andrew",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -241,7 +259,8 @@
             "first_name": "Ryan",
             "last_name": "Stump",
             "email": "ryan@email.com",
-            "is_admin": false,
+            "username": "ryan",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -254,7 +273,8 @@
             "first_name": "Jessica",
             "last_name": "Meeker",
             "email": "jessica@email.com",
-            "is_admin": false,
+            "username": "jes",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -267,7 +287,8 @@
             "first_name": "Justin",
             "last_name": "Meeker",
             "email": "justin@email.com",
-            "is_admin": false,
+            "username": "justin",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -280,7 +301,8 @@
             "first_name": "Max",
             "last_name": "Vining",
             "email": "max@email.com",
-            "is_admin": false,
+            "username": "max",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -293,7 +315,8 @@
             "first_name": "Katelyn",
             "last_name": "Wagner",
             "email": "katelyn@email.com",
-            "is_admin": false,
+            "username": "katelyn",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -306,7 +329,8 @@
             "first_name": "Amelia",
             "last_name": "Smith",
             "email": "amelia@email.com",
-            "is_admin": false,
+            "username": "amelia",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -319,7 +343,8 @@
             "first_name": "Kirby",
             "last_name": "Thibeaux",
             "email": "kirby@email.com",
-            "is_admin": false,
+            "username": "kirby",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -332,7 +357,8 @@
             "first_name": "Lauren",
             "last_name": "Hanson",
             "email": "lauren@email.com",
-            "is_admin": false,
+            "username": "lo",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -345,7 +371,8 @@
             "first_name": "Nick",
             "last_name": "Valdez",
             "email": "nick@email.com",
-            "is_admin": false,
+            "username": "nickv",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -358,7 +385,8 @@
             "first_name": "Maegan",
             "last_name": "Phan",
             "email": "maegan@email.com",
-            "is_admin": false,
+            "username": "maegan",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -371,7 +399,7 @@
             "first_name": "James",
             "last_name": "Linkous",
             "email": "james@email.com",
-            "is_admin": false,
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }
@@ -384,7 +412,8 @@
             "first_name": "Matthew",
             "last_name": "Hedges",
             "email": "matt@email.com",
-            "is_admin": false,
+            "username": "matt",
+            "is_staff": false,
             "is_active": true,
             "date_joined": "2020-08-28T14:51:39.989Z"
         }

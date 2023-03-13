@@ -3,7 +3,6 @@
         "model": "backendapi.event",
         "pk": 1,
         "fields": {
-            "admin_user": 1,
             "venue": 1,
             "name": "LIGHT: Bruce Munro at Cheekwood",
             "date": "2023-05-04 through 2023-10-27",
@@ -18,7 +17,6 @@
         "model": "backendapi.event",
         "pk": 2,
         "fields": {
-            "admin_user": 1,
             "venue": 1,
             "name": "2023 Cheekwood in Bloom",
             "date": "March 11, 2023 - April 9, 2023",
@@ -33,7 +31,6 @@
         "model": "backendapi.event",
         "pk": 3,
         "fields": {
-            "admin_user": 1,
             "venue": 1,
             "name": "Under the Stars Concert Series",
             "date": "July 21, 2023 - September 8, 2023",
@@ -48,7 +45,6 @@
         "model": "backendapi.event",
         "pk": 4,
         "fields": {
-            "admin_user": 1,
             "venue": 1,
             "name": "Drop Everything and Read (D.E.A.R.)",
             "date": "2023-04-15",
@@ -63,7 +59,6 @@
         "model": "backendapi.event",
         "pk": 5,
         "fields": {
-            "admin_user": 2,
             "venue": 2,
             "name": "",
             "date": "2023-03-13",
@@ -78,7 +73,6 @@
         "model": "backendapi.event",
         "pk": 6,
         "fields": {
-            "admin_user": 2,
             "venue": 2,
             "name": "",
             "date": "2023-03-13",
@@ -93,7 +87,6 @@
         "model": "backendapi.event",
         "pk": 7,
         "fields": {
-            "admin_user": 2,
             "venue": 2,
             "name": "",
             "date": "2023-03-13",
@@ -108,7 +101,6 @@
         "model": "backendapi.event",
         "pk": 8,
         "fields": {
-            "admin_user": 3,
             "venue": 3,
             "name": "",
             "date": "2023-03-13",
@@ -123,7 +115,6 @@
         "model": "backendapi.event",
         "pk": 9,
         "fields": {
-            "admin_user": 3,
             "venue": 3,
             "name": "",
             "date": "2023-03-13",
@@ -138,7 +129,6 @@
         "model": "backendapi.event",
         "pk": 10,
         "fields": {
-            "admin_user": 3,
             "venue": 3,
             "name": "",
             "date": "2023-03-13",
@@ -153,7 +143,6 @@
         "model": "backendapi.event",
         "pk": 11,
         "fields": {
-            "admin_user": 4,
             "venue": 4,
             "name": "",
             "date": "2023-03-13",
@@ -168,7 +157,6 @@
         "model": "backendapi.event",
         "pk": 12,
         "fields": {
-            "admin_user": 4,
             "venue": 4,
             "name": "",
             "date": "2023-03-13",
@@ -183,7 +171,6 @@
         "model": "backendapi.event",
         "pk": 13,
         "fields": {
-            "admin_user": 4,
             "venue": 4,
             "name": "",
             "date": "2023-03-13",
@@ -198,7 +185,6 @@
         "model": "backendapi.event",
         "pk": 14,
         "fields": {
-            "admin_user": 5,
             "venue": 5,
             "name": "",
             "date": "2023-03-13",
@@ -213,7 +199,6 @@
         "model": "backendapi.event",
         "pk": 15,
         "fields": {
-            "admin_user": 5,
             "venue": 5,
             "name": "",
             "date": "2023-03-13",
@@ -228,7 +213,6 @@
         "model": "backendapi.event",
         "pk": 16,
         "fields": {
-            "admin_user": 5,
             "venue": 5,
             "name": "",
             "date": "2023-03-13",
@@ -243,7 +227,6 @@
         "model": "backendapi.event",
         "pk": 17,
         "fields": {
-            "admin_user": 6,
             "venue": 6,
             "name": "",
             "date": "2023-03-13",
@@ -258,7 +241,6 @@
         "model": "backendapi.event",
         "pk": 18,
         "fields": {
-            "admin_user": 6,
             "venue": 6,
             "name": "",
             "date": "2023-03-13",
@@ -273,7 +255,6 @@
         "model": "backendapi.event",
         "pk": 19,
         "fields": {
-            "admin_user": 6,
             "venue": 6,
             "name": "",
             "date": "2023-03-13",
@@ -288,7 +269,6 @@
         "model": "backendapi.event",
         "pk": 20,
         "fields": {
-            "admin_user": 7,
             "venue": 7,
             "name": "",
             "date": "2023-03-13",
@@ -303,7 +283,6 @@
         "model": "backendapi.event",
         "pk": 21,
         "fields": {
-            "admin_user": 7,
             "venue": 7,
             "name": "",
             "date": "2023-03-13",
@@ -318,7 +297,6 @@
         "model": "backendapi.event",
         "pk": 22,
         "fields": {
-            "admin_user": 7,
             "venue": 7,
             "name": "",
             "date": "2023-03-13",
@@ -333,7 +311,6 @@
         "model": "backendapi.event",
         "pk": 23,
         "fields": {
-            "admin_user": 8,
             "venue": 8,
             "name": "",
             "date": "2023-03-13",
@@ -348,7 +325,6 @@
         "model": "backendapi.event",
         "pk": 23,
         "fields": {
-            "admin_user": 8,
             "venue": 8,
             "name": "",
             "date": "2023-03-13",
@@ -363,7 +339,6 @@
         "model": "backendapi.event",
         "pk": 25,
         "fields": {
-            "admin_user": 8,
             "venue": 8,
             "name": "",
             "date": "2023-03-13",
@@ -378,7 +353,6 @@
         "model": "backendapi.event",
         "pk": 26,
         "fields": {
-            "admin_user": 9,
             "venue": 9,
             "name": "",
             "date": "2023-03-13",
@@ -393,7 +367,6 @@
         "model": "backendapi.event",
         "pk": 27,
         "fields": {
-            "admin_user": 9,
             "venue": 9,
             "name": "",
             "date": "2023-03-13",
@@ -408,7 +381,6 @@
         "model": "backendapi.event",
         "pk": 28,
         "fields": {
-            "admin_user": 9,
             "venue": 9,
             "name": "",
             "date": "2023-03-13",
@@ -423,7 +395,6 @@
         "model": "backendapi.event",
         "pk": 29,
         "fields": {
-            "admin_user": 10,
             "venue": 10,
             "name": "",
             "date": "2023-03-13",
@@ -438,7 +409,6 @@
         "model": "backendapi.event",
         "pk": 30,
         "fields": {
-            "admin_user": 10,
             "venue": 10,
             "name": "",
             "date": "2023-03-13",
@@ -453,7 +423,6 @@
         "model": "backendapi.event",
         "pk": 31,
         "fields": {
-            "admin_user": 10,
             "venue": 10,
             "name": "",
             "date": "2023-03-13",
@@ -468,7 +437,6 @@
         "model": "backendapi.event",
         "pk": 32,
         "fields": {
-            "admin_user": 11,
             "venue": 11,
             "name": "",
             "date": "2023-03-13",
@@ -483,7 +451,6 @@
         "model": "backendapi.event",
         "pk": 33,
         "fields": {
-            "admin_user": 11,
             "venue": 11,
             "name": "",
             "date": "2023-03-13",
@@ -498,7 +465,6 @@
         "model": "backendapi.event",
         "pk": 34,
         "fields": {
-            "admin_user": 11,
             "venue": 11,
             "name": "",
             "date": "2023-03-13",
@@ -513,7 +479,6 @@
         "model": "backendapi.event",
         "pk": 35,
         "fields": {
-            "admin_user": 12,
             "venue": 12,
             "name": "Blippi",
             "date": "2023-03-31",
@@ -528,7 +493,6 @@
         "model": "backendapi.event",
         "pk": 36,
         "fields": {
-            "admin_user": 12,
             "venue": 12,
             "name": "",
             "date": "2023-03-13",
@@ -543,7 +507,6 @@
         "model": "backendapi.event",
         "pk": 37,
         "fields": {
-            "admin_user": 12,
             "venue": 12,
             "name": "",
             "date": "2023-03-13",
@@ -558,7 +521,6 @@
         "model": "backendapi.event",
         "pk": 38,
         "fields": {
-            "admin_user": 13,
             "venue": 13,
             "name": "",
             "date": "2023-03-13",
@@ -573,7 +535,6 @@
         "model": "backendapi.event",
         "pk": 39,
         "fields": {
-            "admin_user": 13,
             "venue": 13,
             "name": "",
             "date": "2023-03-13",
@@ -588,7 +549,6 @@
         "model": "backendapi.event",
         "pk": 40,
         "fields": {
-            "admin_user": 13,
             "venue": 13,
             "name": "",
             "date": "2023-03-13",
@@ -603,7 +563,6 @@
         "model": "backendapi.event",
         "pk": 41,
         "fields": {
-            "admin_user": 14,
             "venue": 14,
             "name": "",
             "date": "2023-03-13",
@@ -618,7 +577,6 @@
         "model": "backendapi.event",
         "pk": 42,
         "fields": {
-            "admin_user": 14,
             "venue": 14,
             "name": "K. Michelle",
             "date": "2023-03-17",
@@ -633,7 +591,6 @@
         "model": "backendapi.event",
         "pk": 43,
         "fields": {
-            "admin_user": 14,
             "venue": 14,
             "name": "Gracie Abrams: The Good Riddance Tour",
             "date": "2023-03-21",
@@ -648,7 +605,6 @@
         "model": "backendapi.event",
         "pk": 44,
         "fields": {
-            "admin_user": 14,
             "venue": 14,
             "name": "Lauren Daigle Album Preview Concert",
             "date": "2023-03-27",
@@ -663,7 +619,6 @@
         "model": "backendapi.event",
         "pk": 45,
         "fields": {
-            "admin_user": 14,
             "venue": 14,
             "name": "Lil Wayne",
             "date": "2023-04-27",
@@ -678,7 +633,6 @@
         "model": "backendapi.event",
         "pk": 46,
         "fields": {
-            "admin_user": 14,
             "venue": 14,
             "name": "Ruel - 4th Wall World Tour",
             "date": "2023-06-10",
@@ -693,7 +647,6 @@
         "model": "backendapi.event",
         "pk": 47,
         "fields": {
-            "admin_user": 15,
             "venue": 15,
             "name": "",
             "date": "2023-03-13",
@@ -708,7 +661,6 @@
         "model": "backendapi.event",
         "pk": 48,
         "fields": {
-            "admin_user": 15,
             "venue": 15,
             "name": "",
             "date": "2023-03-13",
@@ -723,7 +675,6 @@
         "model": "backendapi.event",
         "pk": 49,
         "fields": {
-            "admin_user": 15,
             "venue": 15,
             "name": "",
             "date": "2023-03-13",
