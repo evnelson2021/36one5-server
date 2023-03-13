@@ -1,0 +1,107 @@
+[
+    {
+        "model": "backendapi.event",
+        "pk": 1,
+        "fields": {
+            "admin_user": 1,
+            "venue": 1,
+            "name": "August Burns Red: 20 Year Anniversary Tour",
+            "date": "2023-03-13",
+            "doors": "06:30PM",
+            "start_time": "07:30PM",
+            "event_type": 1,
+            "details": "Blah blah blah",
+            "ticket_link": "https://www.ticketweb.com/event/august-burns-red-20-year-marathon-music-works-tickets/12661005?pl=marathonmusicworks&REFID=clientsitewp"
+        }
+    },
+    {
+        "model": "backendapi.event",
+        "pk": 2,
+        "fields": {
+            "admin_user": 1,
+            "venue": 1,
+            "name": "K. Michelle",
+            "date": "2023-03-17",
+            "doors": "07:00PM",
+            "start_time": "08:00PM",
+            "event_type": 1,
+            "details": "Blah blah blah",
+            "ticket_link": "https://www.ticketweb.com/event/k-michelle-w-j-howell-marathon-music-works-tickets/12747085?pl=marathonmusicworks&REFID=clientsitewp"
+        }
+    },
+    {
+        "model": "backendapi.event",
+        "pk": 3,
+        "fields": {
+            "admin_user": 1,
+            "venue": 1,
+            "name": "Gracie Abrams: The Good Riddance Tour",
+            "date": "2023-03-21",
+            "doors": "06:30PM",
+            "start_time": "07:30PM",
+            "event_type": 1,
+            "details": "Blah blah blah",
+            "ticket_link": "https://www.ticketweb.com/event/gracie-abrams-the-good-riddance-marathon-music-works-tickets/12815525?pl=marathonmusicworks&REFID=clientsitewp"
+        }
+    },
+    {
+        "model": "backendapi.event",
+        "pk": 4,
+        "fields": {
+            "admin_user": 1,
+            "venue": 1,
+            "name": "Lauren Daigle Album Preview Concert",
+            "date": "2023-03-27",
+            "doors": "06:30PM",
+            "start_time": "07:30PM",
+            "event_type": 1,
+            "details": "Blah blah blah",
+            "ticket_link": "https://www.ticketweb.com/event/lauren-daigle-album-preview-concert-marathon-music-works-tickets/13020345?pl=marathonmusicworks&REFID=clientsitewp"
+        }
+    },
+    {
+        "model": "backendapi.event",
+        "pk": 5,
+        "fields": {
+            "admin_user": 1,
+            "venue": 1,
+            "name": "Lil Wayne",
+            "date": "2023-04-27",
+            "doors": "07:00PM",
+            "start_time": "08:00PM",
+            "event_type": 1,
+            "details": "Blah blah blah",
+            "ticket_link": "SOLD OUT"
+        }
+    },
+    {
+        "model": "backendapi.event",
+        "pk": 6,
+        "fields": {
+            "admin_user": 1,
+            "venue": 1,
+            "name": "Ruel - 4th Wall World Tour",
+            "date": "2023-06-10",
+            "doors": "06:30PM",
+            "start_time": "07:30PM",
+            "event_type": 1,
+            "details": "Blah blah blah",
+            "ticket_link": "https://www.ticketweb.com/event/ruel-4th-wall-marathon-music-works-tickets/13003635?pl=marathonmusicworks&REFID=clientsitewp"
+        }
+    },
+    {
+        "model": "backendapi.event",
+        "pk": 7,
+        "fields": {
+            "admin_user": 2,
+            "venue": 2,
+            "name": "Lil Wayne",
+            "date": "2023-04-27",
+            "doors": "07:00PM",
+            "start_time": "08:00PM",
+            "event_type": 1,
+            "details": "Blah blah blah",
+            "ticket_link": "SOLD OUT"
+        }
+    }
+]
