@@ -32,6 +32,65 @@ class EventView(ViewSet):
         events = Event.objects.all()
         serializer = EventSerializer(events, many=True)
         return Response(serializer.data, status=status.HTTP_200_OK)
+    
+    def create(self, request):
+        """Handle POST operations
+
+        Returns
+            Response -- JSON serialized game instance
+        """
+        venue = Venue.objects.get(pk=request.data["venue"])
+        event_type = EventType.objects.get(pk=request.data["event_type"])
+
+        event = Event.objects.create(
+            name=request.data["name"],
+            date=request.data["date"],
+            doors=request.data["doors"],
+            start_time=request.data["start_time"],
+            details=request.data["details"],
+            ticket_link=request.data["ticket_link"],
+            event_image=request.data["event_image"],
+            # attendees=request.data["attendees"],
+            venue=venue,
+            event_type=event_type
+        )
+        serializer = EventSerializer(event)
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+    def update(self, request, pk):
+        """Handle PUT requests for a event
+
+        Returns:
+            Response -- Empty body with 204 status code
+        """
+
+        event = Event.objects.get(pk=pk)
+        event.name = request.data["name"]
+        event.date = request.data["date"]
+        event.doors = request.data["doors"]
+        event.start_time = request.data["start_time"]
+        event.details = request.data["details"]
+        event.ticket_link = request.data["ticket_link"]
+        event.event_image = request.data["event_image"]
+
+        venue = Venue.objects.get(pk=request.data["venue"])
+        event.venue = venue
+        event_type = EventType.objects.get(pk=request.data["event_type"])
+        event.event_type = event_type
+        event.save()
+
+        return Response(None, status=status.HTTP_204_NO_CONTENT)
+
+    def destroy(self, request, pk):
+        """Handle DELETE requests for a game
+
+        Returns:
+            Response -- Empty body with 204 status code
+        """
+        
+        event = Event.objects.get(pk=pk)
+        event.delete()
+        return Response(None, status=status.HTTP_204_NO_CONTENT)
 
 class EventVenueSerializer(serializers.ModelSerializer):
     """JSON serializer for user
