@@ -10,3 +10,4 @@ class Event(models.Model):
     event_type = models.ForeignKey("EventType", on_delete=models.CASCADE, related_name="event_type")
     details = models.CharField(max_length=150)
     ticket_link = models.CharField(max_length=150)
+    event_image = models.CharField(max_length=150)

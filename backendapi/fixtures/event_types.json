@@ -59,12 +59,19 @@
         "model": "backendapi.eventtype",
         "pk": 9,
         "fields": {
-            "label": "Virtual"
+            "label": "Family"
         }
     },
     {
         "model": "backendapi.eventtype",
         "pk": 10,
+        "fields": {
+            "label": "Theater"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 11,
         "fields": {
             "label": "Miscellaneous"
         }

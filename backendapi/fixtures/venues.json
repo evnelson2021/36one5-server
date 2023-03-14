@@ -8,7 +8,9 @@
             "location": "1200 Forrest Park Drive, Nashville, TN 37205",
             "hours": "Mon(CLOSED); Tues-Sat 9AM-5PM",
             "details": "Once the family home of Mabel and Leslie Cheek, this extraordinary 1930s estate, with its historic mansion and 55 acres of cultivated gardens and expansive vistas, today serves the public as a botanic garden, arboretum and museum.",
-            "coordinates": "36.0884, -86.8760"
+            "coordinates": "36.0884, -86.8760",
+            "website": "https://cheekwood.org/",
+            "venue_image": "https://res.cloudinary.com/funex/image/upload/f_auto,q_40/c_scale,w_auto,dpr_auto/v1655551232/cheekwood-estate-and-gardens-card-image_g3xilg.jpg"
         }
     },
     {
@@ -20,7 +22,9 @@
             "location": "Address varies based on event",
             "hours": "Hours vary based on event",
             "details": "Miscellaneous festivals, events and concerts happening in Davidson County",
-            "coordinates": "36.1766, -86.7819"
+            "coordinates": "36.1766, -86.7819",
+            "website": "https://www.nashville.gov/event-list",
+            "venue_image": "https://leadmt.org/wp-content/uploads/2020/11/davidson_hero.jpg"
         }
     },
     {
@@ -32,7 +36,9 @@
             "location": "116 5th Ave N, Nashville, TN 37219",
             "hours": "Mon, Wed-Sat 9AM-4PM; Tues 2:30PM-4PM",
             "details": "Ryman Auditorium is a historic 2,362-seat live-performance venue located at 116 Rep. John Lewis Way North, in Downtown Nashville, Tennessee. Tours available throughout the daytime hours. Special event timing varies based on event",
-            "coordinates": "36.1612, -86.7785"
+            "coordinates": "36.1612, -86.7785",
+            "website": "https://www.ryman.com/",
+            "venue_image": "https://thevendry.com/cdn-cgi/image/height=1280,width=1280,fit=contain,metadata=none/https%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fuploads.thevendry.co%2F24984%2F1672780481070_289813396_10158327143376734_1872085735643978070_n.jpg"
         }
     },
     {
@@ -44,7 +50,9 @@
             "location": "310 1st Ave S, Nashville, TN 37201",
             "hours": "Hours vary based on event",
             "details": "The Ascend Amphitheater is an open-air event venue located on the Cumberland River in Nashville, Tennessee. It is set inside the Metro Riverfront Park. The amphitheater seats 2,300 in fixed seating, and 4,500 on the lawn, with a total capacity of 6,800",
-            "coordinates": "36.1597, -86.7715"
+            "coordinates": "36.1597, -86.7715",
+            "website": "https://www.livenation.com/venue/KovZpZAEet7A/ascend-amphitheater-events",
+            "venue_image": "https://assets.livenationcdn.com/uploads/ascend_1024x576.jpg?auto=webp&quality=70&width=1319"
         }
     },
     {
@@ -56,7 +64,9 @@
             "location": "925 3rd Ave N, Nashville, TN 37201",
             "hours": "Mon-Fri, Sun 5PM-Close; Sat 11AM-Close",
             "details": "Welcome to Brooklyn Bowl Nashville! Catch a rockin' show, strike down some pins, grab a bite, and sip and chill on our patio. We've got a little something for everyone. Voted Pollstar 2022's Best New Concert Venue! Eat. Drink. Rock. And Roll.",
-            "coordinates": "36.173256, -86.783642"
+            "coordinates": "36.173256, -86.783642",
+            "website": "https://www.brooklynbowl.com/nashville",
+            "venue_image": "https://www.brooklynbowl.com/assets/img/bowling2-7d3195d1a8.png"
         }
     },
     {
@@ -67,8 +77,10 @@
             "name": "FirstBank Amphitheater",
             "location": "4525 Graystone Quarry Ln, Franklin, TN 37064",
             "hours": "Hours vary based on event",
-            "details": "FirstBank Amphitheater, a world-class boutique amphitheater nestled within a beautiful, wooded, natural stone and park-like setting. Located at the Graystone Quarry in Thompson’s Station at the southern border of Franklin, Tennessee, FirstBank Amphitheater opened in 2021 bring back memorable music experiences for fans and artists.",
-            "coordinates": "35.816179, -86.836790"
+            "details": "FirstBank Amphitheater, a world-class boutique amphitheater nestled within a beautiful, wooded, natural stone and park-like setting. Located at the Graystone Quarry in Thompson's Station at the southern border of Franklin, Tennessee, FirstBank Amphitheater opened in 2021 bring back memorable music experiences for fans and artists.",
+            "coordinates": "35.816179, -86.836790",
+            "website": "https://www.firstbankamphitheater.com/",
+            "venue_image": "https://lh3.googleusercontent.com/p/AF1QipOumhYxEC3EA_hhfD7RuKHzXoKOhggQVqPjPDJr=s1360-w1360-h1020"
         }
     },
     {
@@ -80,7 +92,9 @@
             "location": "501 Benton Ave, Nashville, TN 37203",
             "hours": "Hours vary based on event",
             "details": "Geodis Park, formerly known as Nashville SC Stadium and Nashville Fairgrounds Stadium, is a 30,000-seat soccer-specific stadium at the historic Nashville Fairgrounds in Nashville, Tennessee. It is the home of Major League Soccer club Nashville SC.",
-            "coordinates": "36.1301, -86.7659"
+            "coordinates": "36.1301, -86.7659",
+            "website": "https://www.nashvillesc.com/geodispark/",
+            "venue_image": "https://soccerstadiumdigest.com/wp-content/uploads/2022/05/GEODIS-Park-2022-4.jpg"
         }
     },
     {
@@ -92,7 +106,9 @@
             "location": "609 Lafayette St, Nashville, TN 37203",
             "hours": "Mon-Fri 4PM-10PM; Sat 10:30AM-10PM; Sun 10:30AM-9PM",
             "details": "A unique culinary & cultural experience for urban wine enthusiasts passionate about music. We create unforgettable private events. Weddings, corporate events, celebrations & more.",
-            "coordinates": "36.1523, -86.7763"
+            "coordinates": "36.1523, -86.7763",
+            "website": "https://citywinery.com/Nashville/",
+            "venue_image": "https://images.squarespace-cdn.com/content/v1/538b5739e4b0f18802f0bcd3/1424463362834-MYJLBSHDYVUMW4STT7KU/VENUE_2.JPG?format=1000w"
         }
     },
     {
@@ -104,7 +120,9 @@
             "location": "501 Broadway, Nashville, TN 37203",
             "hours": "Hours vary based on event",
             "details": "Bridgestone Arena is a multi-purpose venue in downtown Nashville, Tennessee, United States. Completed in 1996, it is the home of the Nashville Predators of the National Hockey League. ",
-            "coordinates": "36.1592, -86.7785"
+            "coordinates": "36.1592, -86.7785",
+            "website": "https://www.bridgestonearena.com/",
+            "venue_image": "https://cms.nhl.bamgrid.com/images/photos/284777492/1024x576/cut.jpeg"
         }
     },
     {
@@ -116,7 +134,9 @@
             "location": "919 Broadway, Nashville, TN 37203",
             "hours": "Mon, Fri, Sat 10AM-5:30PM; Thur 10AM-8PM; Sun 1PM-5:30PM; Tues & Wed(CLOSED)",
             "details": "The Frist Art Museum, formerly known as the Frist Center for the Visual Arts, is an art exhibition hall in Nashville, Tennessee, housed in the city's historic U.S. Post Office building, which is listed on the National Register of Historic Places. ",
-            "coordinates": "36.1579, -86.7839"
+            "coordinates": "36.1579, -86.7839",
+            "website": "https://fristartmuseum.org/",
+            "venue_image": "https://fristartmuseum.org/wp-content/uploads/FAM-Broadway_John-Schweikert.jpg"
         }
     },
     {
@@ -128,7 +148,9 @@
             "location": "417 4th Ave N, Nashville, TN 37201",
             "hours": "Hours vary based on event",
             "details": "The Nashville Municipal Auditorium is an indoor sports and concert venue in Nashville, Tennessee. It opened October 7, 1962 with both an arena and exhibition hall. The former exhibition hall has been permanent home to the Musicians Hall of Fame and Museum since 2013",
-            "coordinates": "36.1675, -86.7823"
+            "coordinates": "36.1675, -86.7823",
+            "website": "https://www.nashvilleauditorium.com/",
+            "venue_image": "https://s3.amazonaws.com/busites_www/nashvilleauditorium/1-default/2-nashville-auditorium/gallery-media/nma-banner-84329huv-5473-1550159295.jpg"
         }
     },
     {
@@ -140,7 +162,9 @@
             "location": "505 Deaderick St, Nashville, TN 37243",
             "hours": "Hours vary based on event",
             "details": "The Tennessee Performing Arts Center, or TPAC, is located in the James K. Polk Cultural Center at 505 Deaderick Street in downtown Nashville, Tennessee. It occupies a city block between 5th and 6th Avenues North and Deaderick and Union Streets",
-            "coordinates": "36.1647, -86.7826"
+            "coordinates": "36.1647, -86.7826",
+            "website": "https://www.tpac.org/",
+            "venue_image": "https://nashvilleparent.com/wp-content/uploads/2021/02/tpac_img.jpg"
         }
     },
     {
@@ -152,7 +176,9 @@
             "location": "1 Titans Way, Nashville, TN 37213",
             "hours": "Hours vary based on event",
             "details": "Nissan Stadium is a multi-purpose stadium in Nashville, Tennessee, United States. Owned by the Metropolitan Government of Nashville and Davidson County, it is primarily used for football and is the home field of the Tennessee Titans of the National Football League and the Tigers of Tennessee State University.",
-            "coordinates": "36.1665,-86.7713"
+            "coordinates": "36.1665,-86.7713",
+            "website": "https://nissanstadium.com/",
+            "venue_image": "https://www.nashville.gov/sites/default/files/styles/max_size/public/2022-12/Nissan.jpg?itok=XFan24R-"
         }
     },
     {
@@ -164,7 +190,9 @@
             "location": "1402 Clinton St, Nashville, TN 37203",
             "hours": "Hours vary based on event",
             "details": "With a standing room capacity of 1,500 and over 14,000 sq. ft., Marathon can entertain parties of up to 600 in formal banquet seating, 750 in a theater arrangement, and 900 in cocktail functions. The versatile, open floor design is accented with exposed brick walls, a lofty steel beam ceiling, polished concrete bars, and metal chandeliers your guests will love.",
-            "coordinates": "36.163915, -86.797369"
+            "coordinates": "36.163915, -86.797369",
+            "website": "https://www.marathonmusicworks.com/",
+            "venue_image": "https://images.squarespace-cdn.com/content/v1/5db0f93b28a93917fe946d6b/1575996756812-HXNXGSD0ZLYVBSROOFT0/San+Holo+%40+The+Truman+by+Robert+Bohm_3.jpg"
         }
     },
     {
@@ -176,7 +204,9 @@
             "location": "Address varies based on event",
             "hours": "Hours vary based on event",
             "details": "Miscellaneous festivals, events and concerts happening in Williamson County",
-            "coordinates": "35.9179, -86.8622"
+            "coordinates": "35.9179, -86.8622",
+            "website": "https://williamsoncounty-tn.gov/",
+            "venue_image": "https://www.gannett-cdn.com/presto/2020/06/09/PNAS/24d8898d-92c1-413f-8028-db93bcea382c-635707443311810183-williamson-County-Seal.jpg"
         }
     }
 ]
