@@ -66,6 +66,13 @@
         "model": "backendapi.eventtype",
         "pk": 10,
         "fields": {
+            "label": "Theater"
+        }
+    },
+    {
+        "model": "backendapi.eventtype",
+        "pk": 11,
+        "fields": {
             "label": "Miscellaneous"
         }
     }
