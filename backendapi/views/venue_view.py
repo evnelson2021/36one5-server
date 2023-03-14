@@ -34,17 +34,80 @@ class VenueView(ViewSet):
         serializer = VenueSerializer(venues, many=True)
         return Response(serializer.data)
     
-class UserSerializer(serializers.ModelSerializer):
-    """JSON serializer for user
+    def create(self, request):
+        """Handle POST operations
+
+        Returns
+            Response -- JSON serialized event instance
+        """
+
+        try:
+            admin_user = Profile.objects.get(user=request.auth.user)
+        except Profile.DoesNotExist:
+            return Response({'message': 'You sent an invalid token'}, status=status.HTTP_404_NOT_FOUND)
+
+        venue = Venue.objects.create(
+            name=request.data["name"],
+            location=request.data["location"],
+            hours=request.data["hours"],
+            details=request.data["details"],
+            coordinates=request.data["coordinates"],
+            website=request.data["website"],
+            venue_image=request.data["venue_image"],
+            admin_user=admin_user,
+        )
+        serializer = VenueSerializer(venue)
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+    def update(self, request, pk):
+        """Handle PUT requests for a venue
+
+        Returns:
+            Response -- Empty body with 204 status code
+        """
+
+        venue = Venue.objects.get(pk=pk)
+        venue.name = request.data["name"]
+        venue.location = request.data["location"]
+        venue.hours = request.data["hours"]
+        venue.details = request.data["details"]
+        venue.coordinates = request.data["coordinates"]
+        venue.website = request.data["website"]
+        venue.venue_image = request.data["venue_image"]
+        venue.save()
+
+        return Response(None, status=status.HTTP_204_NO_CONTENT)
+
+    def destroy(self, request, pk):
+        """Handle DELETE requests for an venue
+
+        Returns:
+            Response -- Empty body with 204 status code
+        """
+        
+        venue = Venue.objects.get(pk=pk)
+        venue.delete()
+        return Response(None, status=status.HTTP_204_NO_CONTENT)
+
+
+# class UserSerializer(serializers.ModelSerializer):
+#     """JSON serializer for user
+#     """
+#     class Meta:
+#         model = User
+#         fields = ('id', 'first_name', 'last_name', 'username', 'email', 'date_joined', 'is_staff')
+
+class ProfileSerializer(serializers.ModelSerializer):
+    """JSON serializer for profile
     """
     class Meta:
-        model = User
-        fields = ('id', 'first_name', 'last_name', 'username', 'email', 'date_joined', 'is_staff')
+        model = Profile
+        fields = ('id', 'user', 'bio')
 
 class VenueSerializer(serializers.ModelSerializer):
     """JSON serializer for venues
     """
-    admin_user = UserSerializer(many=False)
+    admin_user = ProfileSerializer(many=False)
 
     class Meta:
         model = Venue
