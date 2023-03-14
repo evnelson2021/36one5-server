@@ -37,7 +37,7 @@ class EventView(ViewSet):
         """Handle POST operations
 
         Returns
-            Response -- JSON serialized game instance
+            Response -- JSON serialized event instance
         """
         venue = Venue.objects.get(pk=request.data["venue"])
         event_type = EventType.objects.get(pk=request.data["event_type"])
@@ -82,7 +82,7 @@ class EventView(ViewSet):
         return Response(None, status=status.HTTP_204_NO_CONTENT)
 
     def destroy(self, request, pk):
-        """Handle DELETE requests for a game
+        """Handle DELETE requests for an event
 
         Returns:
             Response -- Empty body with 204 status code
@@ -93,14 +93,14 @@ class EventView(ViewSet):
         return Response(None, status=status.HTTP_204_NO_CONTENT)
 
 class EventVenueSerializer(serializers.ModelSerializer):
-    """JSON serializer for user
+    """JSON serializer for venue
     """
     class Meta:
         model = Venue
         fields = ('id', 'name', 'location', 'admin_user')
 
 class EventTypeSerializer(serializers.ModelSerializer):
-    """JSON serializer for user
+    """JSON serializer for event type
     """
     class Meta:
         model = EventType

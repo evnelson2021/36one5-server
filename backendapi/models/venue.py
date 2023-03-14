@@ -10,3 +10,4 @@ class Venue(models.Model):
     coordinates = models.CharField(max_length=150)
     website = models.CharField(max_length=150)
     venue_image = models.CharField(max_length=150)
+    favorite = models.ManyToManyField("Profile", through="favorite", related_name="favorite_venue")
